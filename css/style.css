@@ -144,3 +144,7 @@ p {
   font-family: "fontello";
   text-decoration: none;
 }
+
+.modal {
+      background-color: #333;
+}
